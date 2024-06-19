@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<InputField/> take snap for <INputField/> 1`] = `
+<TextInput
+  testID="input"
+  value=""
+/>
+`;
